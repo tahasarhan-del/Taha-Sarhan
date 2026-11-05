@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Taha Sarhan | Data-Driven Sales Professional</title>
+    <link rel="stylesheet" href="css/style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600&family=Playfair+Display:wght@700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <nav>
+        <div class="logo">TS.</div>
+        <ul class="nav-links">
+            <li><a href="index.html" class="active">Home</a></li>
+            <li><a href="about.html">About</a></li>
+            <li><a href="experience.html">Experience</a></li>
+            <li><a href="projects.html">Projects</a></li>
+            <li><a href="contact.html">Contact</a></li>
+        </ul>
+    </nav>
+
+    <header class="hero">
+        <div class="hero-content">
+            <h1>Turning <span class="gold">Data</span> into Revenue.</h1>
+            <p>I'm <strong>Taha Sarhan</strong>, a Data-Driven Sales Specialist with a proven track record of scaling corporate accounts and driving business growth.</p>
+            <a href="projects.html" class="btn">View My Impact</a>
+        </div>
+        <div class="hero-image">
+            <!-- حفظ الصورة باسم taha.jpg في فولدر assets -->
+            <img src="assets/taha.jpg" alt="Taha Sarhan">
+        </div>
+    </header>
+
+    <section class="stats">
+        <div class="stat-card">
+            <h2 class="gold">40%</h2>
+            <p>Increase in Operational Utilization</p>
+        </div>
+        <div class="stat-card">
+            <h2 class="gold">110%</h2>
+            <p>Monthly Sales Target Exceeded</p>
+        </div>
+        <div class="stat-card">
+            <h2 class="gold">150+</h2>
+            <p>New Patient Acquisitions / Month</p>
+        </div>
+    </section>
+
+    <script src="js/main.js"></script>
+</body>
+</html>
